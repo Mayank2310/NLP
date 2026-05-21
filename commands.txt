@@ -1,0 +1,7 @@
+OPEN TERMINAL IN VISUAL CODE STUDIO THEN FOLLW THESE STEPS 
+
+STEP 1: Create a virtual environment in vcs fot that use "conda create -p venv python==3.10" make sure ANACONDA IS INSTALLED
+
+STEP 2: ACTIVATE THE VENV FOR THAT USE " conda activate venv/"
+
+STEP 3: "pip install ipykernel"to run the kernels and juypter notebook.
